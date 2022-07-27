@@ -16,6 +16,6 @@ public class WelcomeController {
 		
 		
 		
-		return "Hello World!!! The application is running on port 9092"; //"application/json" mean this is a text not a redirect
+		return "Hello World!!! The application is running on port 9092******"; //"application/json" mean this is a text not a redirect
 	}
 }
